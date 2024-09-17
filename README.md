@@ -4,7 +4,7 @@
 
 Learn the basic tags that allow us to define content on a page.
 
-### Recall: HTML
+### 📄 Recall: HTML
 
 HTML uses **_tags_** to define _elements_ or _structure_.
 
@@ -29,13 +29,13 @@ A blank (empty) **HTML** document should _always_ have this structure:
 
 **Notice the spacing / tabbing!**
 
-## index.html
+## 📖 index.html
 
 All web-servers need a "first page" to show when you visit a site. For example, when you go to [www.brash.ca](https://www.brash.ca) you are shown the `index.html` file. It is named after the "index" at the back of a book which displays where everything is.
 
 **All** of your HTML projects will need an [`index.html`](index.html) file to load first. In a future lesson, we will look at having more than one `.html` file.
 
-## Some HTML Basics
+## 📖 Some HTML Basics
 
 - HTML is _not_ a programming language. It is a _markup_ or _design_ language.
 - HTML ignores white space. Try putting multiple lines of text inside your `<body>` like this:
@@ -62,7 +62,7 @@ All web-servers need a "first page" to show when you visit a site. For example, 
   |`<br>`|Insert a _break-line_|
   |`<hr>`|Insert a horizontal line across the page|
 
-**[Here is a list](https://www.w3schools.com/tags/default.asp) of all the HTML tags that exist.**
+🖱️ **[Here is a list](https://www.w3schools.com/tags/default.asp) of all the HTML tags that exist.**
 
 Play around with the tags on your page and insert fake content. Try the different headers, paragraphs, divs, break-lines, etc... Maybe even try inserting a picture, if you can (but don't worry, we'll have a lesson on that next class).
 
