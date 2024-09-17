@@ -10,6 +10,8 @@ Create a webpage ([`index.html`](index.html)) dedicated to this topic and provid
 
 Today's lesson/task is for practical learning - you do not need to submit it. If you want to synchronize (push) to GitHub for your own backup, go for it.
 
+🖱️ **[Here is a list](https://www.w3schools.com/tags/default.asp) of all the HTML tags that exist.**
+
 ### Extra
 
 Want to take it to the next level and can't wait for tomorrow's lesson?
